@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://magpowell.github.io/sitemap.xml
