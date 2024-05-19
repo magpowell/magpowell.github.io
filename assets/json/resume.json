@@ -77,16 +77,17 @@
         "date": "2019"
       },
       {
-        "title": "Detur Book Prize, Harvard College",
-        "date": "2016"
+        "title": "Hoopes Prize, Harvard College",
+        "summary": "For outstanding scholarly work on senior thesis.",
+        "date": "2019"
       },
       {
         "title": "Martin McPeck Prize, Harvard College",
         "date": "2018"
-      },{
-        "title": "Hoopes Prize, Harvard College",
-        "summary": "For outstanding scholarly work on senior thesis.",
-        "date": "2019"
+      },
+      {
+        "title": "Detur Book Prize, Harvard College",
+        "date": "2016"
       }
     ]
   }
