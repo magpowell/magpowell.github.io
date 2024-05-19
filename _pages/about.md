@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://gentinelab.eee.columbia.edu/home'>Gentine Lab, Columbia University</a>.
+subtitle: Researcher with the <a href='https://gentinelab.eee.columbia.edu/home'>Gentine Lab, Columbia University</a>.
 
 profile:
   align: right
