@@ -35,11 +35,6 @@
         "honors": [
           "Phi Beta Kappa",
           "John Harvard Scholar"
-        ],
-        "awards": [
-          "Hoopes Prize",
-          "Detur Book Prize",
-          "Martin McPeck Prize"
         ]
       }
     ],
@@ -65,7 +60,7 @@
         "position": "Research Analyst",
         "startDate": "2020",
         "endDate": "2021",
-        "summary": "Conducted research and analyses on environmental and public policy issues, developing spatial models to estimate natural resource damages and presenting at international workshops."
+        "summary": "Conducted research and analyses on environmental and public policy issues, developed spatial models to estimate natural resource damages and presented at international workshops."
       },
       {
         "name": "Harvard University Department of Earth and Planetary Sciences",
@@ -74,6 +69,20 @@
         "startDate": "2018",
         "endDate": "2019",
         "summary": "Investigated methane emissions in the Arctic, presenting findings at the AGU Fall Meeting."
+      }
+    ],
+    "awards": [
+      {
+        "title": "Phi Beta Kappa"
+      },
+      {
+        "title": "Detur Book Prize, Harvard College"
+      },
+      {
+        "title": "Martin McPeck Prize, Harvard College"
+      },{
+        "title": "Hoopes Prize, Harvard College",
+        "summary": "For outstanding scholarly work on senior thesis."
       }
     ]
   }
