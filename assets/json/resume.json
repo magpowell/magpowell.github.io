@@ -20,7 +20,6 @@
         "area": "Earth and Environmental Engineering",
         "studyType": "M.S./Ph.D",
         "startDate": "2023",
-        "endDate": "present",
         "advisor": "Prof. Pierre Gentine",
         "awards": [
           "Columbia University Presidential Fellowship"
@@ -31,7 +30,7 @@
         "location": "Cambridge, MA",
         "area": "Earth and Planetary Sciences",
         "studyType": "A.B. Honors",
-        "startDate": "2019",
+        "endDate": "2019",
         "honors": [
           "Phi Beta Kappa",
           "John Harvard Scholar"
