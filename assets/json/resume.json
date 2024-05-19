@@ -73,16 +73,20 @@
     ],
     "awards": [
       {
-        "title": "Phi Beta Kappa"
+        "title": "Phi Beta Kappa",
+        "date": "2019"
       },
       {
-        "title": "Detur Book Prize, Harvard College"
+        "title": "Detur Book Prize, Harvard College",
+        "date": "2016"
       },
       {
-        "title": "Martin McPeck Prize, Harvard College"
+        "title": "Martin McPeck Prize, Harvard College",
+        "date": "2018"
       },{
         "title": "Hoopes Prize, Harvard College",
-        "summary": "For outstanding scholarly work on senior thesis."
+        "summary": "For outstanding scholarly work on senior thesis.",
+        "date": "2019"
       }
     ]
   }
