@@ -82,28 +82,6 @@
       "databaseTools": ["PostgreSQL", "PostGIS"],
       "computing": ["dask", "spark"],
       "platforms": ["Git", "Docker", "AWS", "Airflow"]
-    },
-    "publications": [
-      {
-        "title": "Scaling waterbody carbon dioxide and methane fluxes in the arctic using an integrated terrestrial-aquatic approach",
-        "publisher": "Environmental Research Letters",
-        "releaseDate": "2023-06-01",
-        "url": "https://doi.org/10.1088/1748-9326/ab8f44"
-      },
-      {
-        "title": "Using Machine Learning to Predict Inland Aquatic CO2 and CH4 Concentrations and the Effects of Wildfires in the Yukon-Kuskokwim Delta, Alaska",
-        "publisher": "Global Biogeochemical Cycles",
-        "releaseDate": "2022-04-01",
-        "url": "https://doi.org/10.1029/2021GB007146"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Climate Impact Risk Assessment",
-        "startDate": "2021",
-        "endDate": "2023",
-        "summary": "Developed and managed a suite of tools for assessing and visualizing climate impact risks, using state-of-the-art computational techniques to provide actionable insights for diverse clients."
-      }
-    ]
+    }
   }
   
