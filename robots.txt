@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mpowellresearch.com/sitemap.xml
+Sitemap: https://maggie-powell.com/sitemap.xml
